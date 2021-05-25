@@ -1,0 +1,42 @@
+﻿  5.1.c.cpp
+F:\!!!___NB\ооп\lab5\Project51c\Complex.h(13,9): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+F:\!!!___NB\ооп\lab5\Project51c\Complex.h(25,49): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+F:\!!!___NB\ооп\lab5\Project51c\Complex.h(26,42): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+F:\!!!___NB\ооп\lab5\Project51c\Complex.h(27,51): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+F:\!!!___NB\ооп\lab5\Project51c\Complex.h(28,44): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+F:\!!!___NB\ооп\lab5\Project51c\Complex.h(35,72): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+F:\!!!___NB\ооп\lab5\Project51c\Complex_Private.h(2,1): warning C4103: alignment changed after including header, may be due to missing #pragma pack(pop)
+F:\!!!___NB\ооп\lab5\Project51c\Complex_Private.h(22,57): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+F:\!!!___NB\ооп\lab5\Project51c\Complex_Private.h(23,50): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+F:\!!!___NB\ооп\lab5\Project51c\Complex_Private.h(24,59): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+F:\!!!___NB\ооп\lab5\Project51c\Complex_Private.h(25,52): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+F:\!!!___NB\ооп\lab5\Project51c\Complex_Private.h(32,80): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+F:\!!!___NB\ооп\lab5\Project51c\5.1.c.cpp(1,1): warning C4103: alignment changed after including header, may be due to missing #pragma pack(pop)
+F:\!!!___NB\ооп\lab5\Project51c\Complex_Public.h(13,56): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+F:\!!!___NB\ооп\lab5\Project51c\Complex_Public.h(14,49): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+F:\!!!___NB\ооп\lab5\Project51c\Complex_Public.h(15,58): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+F:\!!!___NB\ооп\lab5\Project51c\Complex_Public.h(16,51): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+F:\!!!___NB\ооп\lab5\Project51c\5.1.c.cpp(10,36): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+  Complex_Public.cpp
+F:\!!!___NB\ооп\lab5\Project51c\Complex.h(13,9): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+F:\!!!___NB\ооп\lab5\Project51c\Complex.h(25,49): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+F:\!!!___NB\ооп\lab5\Project51c\Complex.h(26,42): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+F:\!!!___NB\ооп\lab5\Project51c\Complex.h(27,51): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+F:\!!!___NB\ооп\lab5\Project51c\Complex.h(28,44): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+F:\!!!___NB\ооп\lab5\Project51c\Complex.h(35,72): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+F:\!!!___NB\ооп\lab5\Project51c\Complex_Public.h(2,1): warning C4103: alignment changed after including header, may be due to missing #pragma pack(pop)
+F:\!!!___NB\ооп\lab5\Project51c\Complex_Public.h(13,56): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+F:\!!!___NB\ооп\lab5\Project51c\Complex_Public.h(14,49): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+F:\!!!___NB\ооп\lab5\Project51c\Complex_Public.h(15,58): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+F:\!!!___NB\ооп\lab5\Project51c\Complex_Public.h(16,51): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+F:\!!!___NB\ооп\lab5\Project51c\Complex_Public.cpp(1,1): warning C4103: alignment changed after including header, may be due to missing #pragma pack(pop)
+F:\!!!___NB\ооп\lab5\Project51c\Complex_Public.cpp(21,71): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+F:\!!!___NB\ооп\lab5\Project51c\Complex_Public.cpp(29,64): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+F:\!!!___NB\ооп\lab5\Project51c\Complex_Public.cpp(37,73): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+F:\!!!___NB\ооп\lab5\Project51c\Complex_Public.cpp(46,66): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+  MyDerivedException.cpp
+F:\!!!___NB\ооп\lab5\Project51c\MyDerivedException.cpp(4,1): warning C5043: 'MyDerivedException::What': exception specification does not match previous declaration
+F:\!!!___NB\ооп\lab5\Project51c\MyDerivedException.h(10): message : see declaration of 'MyDerivedException::What'
+  MyException.cpp
+  Generating Code...
+  Project51c.vcxproj -> F:\!!!___NB\ооп\lab5\Project51c\Debug\Project51c.exe
